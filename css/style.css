@@ -1,0 +1,86 @@
+body {
+  background-color: #701c64;
+  background-size: cover;
+  background-image: linear-gradient(rgb(112, 28, 100,0.9), rgb(112, 28, 100,0.9)),url(../img/fundo_codigo.png);
+  color: white;
+}
+ul{
+    list-style: none;
+}
+li{
+    float: right;
+    padding: 3%;
+    margin: 1%;
+    margin-top: -8%;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 12px;
+}
+.hr{
+    width: 30px;
+    background-color: pink;
+}
+.hrr{
+    margin: 20px;
+    width: 30px;
+    background-color: pink;
+}
+.hrrr{
+    margin: 20px;
+    width: 30px;
+    background-color: pink;
+}
+header{
+    margin-top: 10%;
+}
+.botao{
+    float: none;    
+    margin-top: 2%;
+    background-image: linear-gradient(rgb(112, 28, 100,0.9), rgb(112, 28, 100,0.9)),url(../img/fundo_codigo.png);
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+
+}
+.bot{
+    margin-left: 44.5%;
+}
+.text-t{
+margin-left: 25px;
+}
+.botao-p{
+
+    margin: 50px;
+    float: none;    
+    text-align: center;
+    background-image: linear-gradient(rgba(234, 8, 132, 0.913), rgba(234, 8, 132, 0.913)),url(../img/fundo_codigo.png);
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+
+}
+textarea{
+    margin-left: 20px;
+}
+.centerbot{
+    margin-left: 45%;
+
+}
+.space{
+    margin-top: 10%;
+    margin-left: 40%;
+}
